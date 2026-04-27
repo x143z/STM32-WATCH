@@ -20,6 +20,8 @@
 7、谷歌小恐龙游戏
 8、动态表情包
 9、水平仪
+10、计步
+11、抬手亮屏/息屏
 
 # 四、产品参数
 1、长宽：39.5mm*45.5mm。
@@ -30,7 +32,3 @@
 # 五、产品图片
 ![image](https://github.com/user-attachments/assets/2ec9c52e-5313-4099-a946-5c5f1a7ef5a0)
 ![image](https://github.com/user-attachments/assets/aae3aa13-4729-45b4-862a-ec5b7fd9736c)
-
-
-
-
