@@ -32,4 +32,4 @@
 # 五、产品图片
 ![image](https://github.com/user-attachments/assets/2ec9c52e-5313-4099-a946-5c5f1a7ef5a0)
 ![image](https://github.com/user-attachments/assets/aae3aa13-4729-45b4-862a-ec5b7fd9736c)
-<img width="2476" height="2772" alt="IMG_20260427_185738" src="https://github.com/user-attachments/assets/3fe76e78-9a9f-4731-a155-6ad4ef484ecd" />
+<img width="400" alt="IMG_20260427_185738" src="https://github.com/user-attachments/assets/3fe76e78-9a9f-4731-a155-6ad4ef484ecd"/>
